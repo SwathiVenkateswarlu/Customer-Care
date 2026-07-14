@@ -37,8 +37,3 @@ A MERN Stack based application for managing customer complaints efficiently.
 
 ## Demo Video
 https://drive.google.com/file/d/1jQ4gwuP5B3qFO5x7SUy-cHVEPPRZT1OB/view?usp=drivesdk
-
-
-## Documentation
-
-Paste your documentation link here
